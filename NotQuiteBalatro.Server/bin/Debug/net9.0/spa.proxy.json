@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58915",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\Work\\Code\\NotQuiteBalatro\\NotQuiteBalatro.Server\\..\\notquitebalatro.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

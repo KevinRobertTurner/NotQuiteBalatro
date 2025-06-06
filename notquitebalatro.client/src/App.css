@@ -1,0 +1,33 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+img {
+    border-style: solid;
+    border-radius: 0.7rem;
+    width: 10%;
+}
+
+button {
+    border-color: dimgrey;
+}
+
+.score {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0.5rem;
+}
+
+.result {
+    font-size: 48px;
+    font-style: italic;
+    margin: 0.5rem;
+}
